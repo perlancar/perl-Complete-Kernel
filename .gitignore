@@ -2,3 +2,4 @@ Complete-Kernel-*
 .build
 *~
 nytprof*
+.DS_Store
